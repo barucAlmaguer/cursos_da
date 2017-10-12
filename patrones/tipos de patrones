@@ -1,0 +1,54 @@
+Paradigmas
+	Programacion procedural
+	Programacion orientada a objetos
+	programacion funcional
+
+Patrones de diseño
+	Arquitectura de software:
+		MVC
+		MVVM
+	Simpleton
+	Adaptador
+	
+	Patron por:
+		Eventos
+			Horario
+			Comandos
+		Maquina de estados
+			Estado
+			Transiciones / Eventos
+	
+Protocolos
+	Arduino
+		Seriales
+			UART / Serial
+				Full duplex
+				Async
+				P-P
+				2 pines
+					TX
+					RX
+			I2C
+				Half duplex
+				Sync
+				Bus
+				2 pines
+					SDA
+					SCL
+			SPI
+				Full duplex
+				Sync
+				Bus
+				3 (+ n)
+		PWM
+		Digital
+		Analogico
+	Alto nivel
+		Modbus
+		Canbus
+		Internet
+			Ethernet
+			HTTP
+			REST
+			TCP/IP
+			DCP
